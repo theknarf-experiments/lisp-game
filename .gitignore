@@ -1,3 +1,7 @@
+### WINDOWS RÆL ###
+*.dll
+quicklisp.lisp
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,vim,commonlisp,homebrew
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,vim,commonlisp,homebrew
 
